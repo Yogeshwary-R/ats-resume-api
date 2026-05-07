@@ -71,8 +71,8 @@ project/
 ## 🚀 Run Locally
 
 ```bash
-git clone <repo-url>
-cd project
+git clone  https://github.com/Yogeshwary-R/ats-resume-api.git 
+cd ats-resume-api
 
 pip install -r requirements.txt
 
